@@ -180,3 +180,5 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 uv.lock
+/dataset/awesome-chatgpt-prompts
+/dataset/ChnSentiCorp
